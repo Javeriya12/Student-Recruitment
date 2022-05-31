@@ -1,0 +1,28 @@
+.record-data-container{
+    background-color: rgb(212, 184, 238);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.input-feilds-container{
+    background-color: rgb(233, 228, 238);
+    display:flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 50px;
+}
+
+.inputs{
+    padding: 15px 10px;
+    width: 800px;
+    margin:1px;
+    
+}
+
+.Sign-up-button{
+    border: 1px solid black;
+    width: 824px;
+    height: 60px;
+    margin-top: 9px;
+}
